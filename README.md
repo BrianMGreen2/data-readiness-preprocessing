@@ -34,8 +34,8 @@ To help teams:
 
 ## 🔗 Related Repositories
 
-- [AI Readiness Assessment](https://github.com/YOUR-USERNAME/ai-readiness-assessment)
-- [AI Governance Frameworks](https://github.com/YOUR-USERNAME/ai-governance-frameworks)
+- [AI Readiness Assessment](https://github.com/BrianMGreen2/ai-readiness-assessment)
+- [AI Governance Frameworks](https://github.com/BrianMGreen2/ai-governance-frameworks)
 
 ## 📄 License
 
